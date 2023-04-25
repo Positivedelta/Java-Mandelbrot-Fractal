@@ -1,5 +1,5 @@
 <project name="Mandelbrot" default="jar" basedir=".">
-    <description>Genetic Snake AI</description>
+    <description>Mandelbrot</description>
 
     <property environment="env"/>
     <property name="src" location="src"/>
